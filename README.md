@@ -1,4 +1,4 @@
-# CSDS345-P3-ILIP
+# CSDS 345: P3 - Imperitive Language Interpreter
 
 Authors: Kasper Lataweic, Usman Moazzam, Eric Xu
 

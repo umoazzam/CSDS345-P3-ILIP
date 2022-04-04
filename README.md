@@ -36,8 +36,11 @@ function gcd(a,b) {
 function main () {
   return gcd(x,y);
 }
+```
+
 Here is another example program that uses recursion:
 
+```
 function factorial (x) {
   if (x == 0)
     return 1;

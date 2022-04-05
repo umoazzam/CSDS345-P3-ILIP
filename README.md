@@ -1,6 +1,6 @@
 # CSDS 345: P3 - Imperitive Language Interpreter
 
-Authors: Kasper Latawiec, Usman Moazzam, Eric Xu
+Authors: Kasper Latawiec, Usman Moazzam, Eric Xie
 
 ## Building Off of Your Existing Interpreter
 
